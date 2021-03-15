@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @systemantix
+- 👀 I’m a product designer based in Edinburgh
+- 🌱 I’m currently learning SwiftUI
